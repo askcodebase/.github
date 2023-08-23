@@ -13,3 +13,14 @@ Find us on following platforms:
 - [Medium](https://shiqimei.medium.com/)
 - [Twitter](https://twitter.com/askcodebase)
 - [Crunchbase](https://www.crunchbase.com/organization/jipiti-ai)
+- Reddit
+- Hugging Face
+- Youtube
+- Easy With AI
+- Y Combinartor
+- Product Hunt
+- SourceForge
+- Toolify AI
+- There's An AI For That
+- AI Finder (ai-finder.net)
+- ToolAI (tooai.io)
