@@ -16,6 +16,7 @@ Find us on following platforms:
 - Reddit
 - Hugging Face
 - Youtube
+- Tiktok
 - Easy With AI
 - Y Combinartor
 - Product Hunt
