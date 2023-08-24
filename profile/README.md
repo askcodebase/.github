@@ -14,6 +14,7 @@ Find us on following platforms:
 - [Medium](https://shiqimei.medium.com/)
 - [Twitter](https://twitter.com/askcodebase)
 - [Crunchbase](https://www.crunchbase.com/organization/jipiti-ai)
+- Loom
 - Reddit
 - Hugging Face
 - Youtube
