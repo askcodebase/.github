@@ -2,7 +2,7 @@
 
 > Programmers will not be replaced by AI, but those who don't use AI devtools will.
 
-**Jipiti AI** is at the forefront of conversational programming powered by AI (especially LLM). We're building the next-generation devtool [AskCodebase AI](https://marketplace.visualstudio.com/items?itemName=JipitiAI.askcodebase) to boost developers' productivity and happiness.
+**Jipiti AI** is at the forefront of conversational programming powered by AI. We're building the next-generation devtool [AskCodebase AI](https://marketplace.visualstudio.com/items?itemName=JipitiAI.askcodebase) to boost developers' productivity and happiness.
 
 Find us on following platforms:
 
