@@ -2,7 +2,7 @@
 
 > Programmers will not be replaced by AI, but those who don't use AI devtools will.
 
-**Jipiti AI** is at the forefront of conversational programming powered by AI. We're building the next-generation devtool [AskCodebase AI](https://marketplace.visualstudio.com/items?itemName=JipitiAI.askcodebase) to boost developers' productivity and happiness.
+AskCodebase is the AI programming agent for developers, providing end-to-end solutions to complete complex programming tasks using natural language.
 
 Find us on following platforms:
 
@@ -14,16 +14,3 @@ Find us on following platforms:
 - [Medium](https://shiqimei.medium.com/)
 - [Twitter](https://twitter.com/askcodebase)
 - [Crunchbase](https://www.crunchbase.com/organization/jipiti-ai)
-- Loom
-- Reddit
-- Hugging Face
-- Youtube
-- Tiktok
-- Easy With AI
-- Y Combinartor
-- Product Hunt
-- SourceForge
-- Toolify AI
-- There's An AI For That
-- AI Finder (ai-finder.net)
-- ToolAI (tooai.io)
